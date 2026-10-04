@@ -1,0 +1,694 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "928b5d92-b861-4bd6-a548-2b257c980c16")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 100.33 82.55) (xy 104.14 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "046d7c87-6c62-4a56-badd-f0748dc3cd4c")
+	)
+	(wire
+		(pts
+			(xy 86.36 73.66) (xy 86.36 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "055efb73-2b0b-4895-84c2-9cfb8d1b58d9")
+	)
+	(wire
+		(pts
+			(xy 43.18 111.76) (xy 43.18 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "079f20ca-c429-4532-b0bf-946b151077a5")
+	)
+	(wire
+		(pts
+			(xy 43.18 33.02) (xy 43.18 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c8eeb1c-68ff-47ff-9745-cec13aeac493")
+	)
+	(wire
+		(pts
+			(xy 38.1 67.31) (xy 46.99 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14e3acaf-9433-4aef-b236-3efb2d44bd82")
+	)
+	(wire
+		(pts
+			(xy 78.74 55.88) (xy 92.71 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a56cc71-2695-4558-9393-b864e00c5eb4")
+	)
+	(wire
+		(pts
+			(xy 104.14 82.55) (xy 104.14 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aba44f4-dd48-4e3f-a4a0-14a202111545")
+	)
+	(wire
+		(pts
+			(xy 43.18 72.39) (xy 46.99 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41841ad1-0647-4aa6-a857-4aab0cc006a6")
+	)
+	(wire
+		(pts
+			(xy 86.36 59.69) (xy 92.71 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4222b2c5-a6f7-48db-9c84-2ed0233d5afc")
+	)
+	(wire
+		(pts
+			(xy 109.22 86.36) (xy 109.22 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44a43412-1d81-4902-842a-b3dc5df7abaf")
+	)
+	(wire
+		(pts
+			(xy 113.03 53.34) (xy 133.35 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "492ced24-aca3-494e-9e3d-71c139aaa0a8")
+	)
+	(wire
+		(pts
+			(xy 109.22 115.57) (xy 38.1 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "508f568f-3915-4795-8bf8-bf467ab9b96d")
+	)
+	(wire
+		(pts
+			(xy 77.47 86.36) (xy 73.66 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d01bf3b-a790-40d9-b13e-d4a2ccccfcee")
+	)
+	(wire
+		(pts
+			(xy 100.33 90.17) (xy 105.41 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d87730c-a299-4d0c-bb1b-f067def9da15")
+	)
+	(wire
+		(pts
+			(xy 36.83 33.02) (xy 43.18 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "836d845a-bb71-442e-916d-14d477b006dc")
+	)
+	(wire
+		(pts
+			(xy 78.74 71.12) (xy 78.74 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "876a341b-af06-4157-84a8-7be5b10861de")
+	)
+	(wire
+		(pts
+			(xy 68.58 71.12) (xy 78.74 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97899f29-47e0-4eb4-8484-45f8a9ebd82f")
+	)
+	(wire
+		(pts
+			(xy 38.1 115.57) (xy 38.1 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1284fe4-da59-495d-acae-985b57f636fb")
+	)
+	(wire
+		(pts
+			(xy 73.66 63.5) (xy 73.66 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a42feeb5-7c4e-48d5-bf75-14ed98f944a6")
+	)
+	(wire
+		(pts
+			(xy 100.33 86.36) (xy 109.22 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afd202b4-766c-4d6f-bb9a-801c5884ea1a")
+	)
+	(wire
+		(pts
+			(xy 68.58 63.5) (xy 73.66 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2dca829-1e7f-4bbb-90cb-dd3f570a3297")
+	)
+	(wire
+		(pts
+			(xy 113.03 58.42) (xy 133.35 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c98f24cf-bbe1-4763-837f-b605b2d6fa07")
+	)
+	(wire
+		(pts
+			(xy 105.41 90.17) (xy 105.41 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3cb6c04-5fbb-4460-a36e-2c30972dabdd")
+	)
+	(wire
+		(pts
+			(xy 104.14 73.66) (xy 86.36 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7761bde-02c2-4904-aee2-d244ca16b15d")
+	)
+	(wire
+		(pts
+			(xy 105.41 111.76) (xy 43.18 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3aa0e74-09d4-4057-8082-e15937dd082e")
+	)
+	(wire
+		(pts
+			(xy 43.18 63.5) (xy 46.99 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6dae764-138f-4abb-8524-3181ea9c905a")
+	)
+	(sheet
+		(at 92.71 52.07)
+		(size 20.32 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1b7baa97-9aa0-4d87-9c9e-58bf2af2bffd")
+		(property "Sheetname" "mazzilli"
+			(at 92.71 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "test_mazzilli.kicad_sch"
+			(at 92.71 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 92.71 55.88 180)
+			(uuid "61980032-2629-4482-8639-dd8e497b1a82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "v_mazzilli_n" output
+			(at 113.03 58.42 0)
+			(uuid "6f68ec6c-0d29-4292-bfbb-eaa9186d33ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "v_mazzilli_p" output
+			(at 113.03 53.34 0)
+			(uuid "67303359-028b-44be-9591-e1e120629339")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "v_pwm" input
+			(at 92.71 59.69 180)
+			(uuid "dc950c51-f55a-4203-8ed2-e1827a7d1806")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "lighter_prototype"
+				(path "/928b5d92-b861-4bd6-a548-2b257c980c16"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 27.94)
+		(size 16.51 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30b58fc0-9425-408d-b197-4a4dd3ac1887")
+		(property "Sheetname" "battery"
+			(at 20.32 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 20.32 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "vbus" output
+			(at 36.83 33.02 0)
+			(uuid "9426afe3-2449-4b25-bb7c-11bc467d71e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" input
+			(at 36.83 39.37 0)
+			(uuid "0d370189-840d-4d68-9ab3-45bee65616ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL" input
+			(at 36.83 36.83 0)
+			(uuid "2d82e964-87fe-4270-aec5-9037d11cf3a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "fuel_det" output
+			(at 36.83 30.48 0)
+			(uuid "7274293b-e376-4ce9-b535-93ae706f5831")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "lighter_prototype"
+				(path "/928b5d92-b861-4bd6-a548-2b257c980c16"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.99 59.69)
+		(size 21.59 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3ce8d332-82f4-4e92-849f-0b83c552bf66")
+		(property "Sheetname" "voltage_reg"
+			(at 46.99 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage_reg.kicad_sch"
+			(at 46.99 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5v_en" input
+			(at 46.99 72.39 180)
+			(uuid "b2cce73c-775b-4580-b656-c548ac441714")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "vbus_in" input
+			(at 46.99 63.5 180)
+			(uuid "f9133ecf-e1d9-4b1a-9131-e7c5a7cfc1fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3v3_out" output
+			(at 68.58 63.5 0)
+			(uuid "2d7bdcdf-291b-4bd5-a03e-c56cdc694de8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "5v_out" output
+			(at 68.58 67.31 0)
+			(uuid "36d10271-c582-426c-aa0e-d21a9cd34383")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "24v_out" output
+			(at 68.58 71.12 0)
+			(uuid "6fe199e7-c7b3-4edf-8e3d-a4c29d0f8cde")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "24v_en" input
+			(at 46.99 67.31 180)
+			(uuid "a9409179-1f03-477c-88c9-b3f30f5ddb62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "lighter_prototype"
+				(path "/928b5d92-b861-4bd6-a548-2b257c980c16"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 49.53)
+		(size 16.51 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dc6affb-21e9-4404-90df-4dc90155c3a1")
+		(property "Sheetname" "voltage_multiplier"
+			(at 133.35 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage_multiplier.kicad_sch"
+			(at 133.35 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "v_mult_in_n" input
+			(at 133.35 58.42 180)
+			(uuid "b6cf27bf-846e-43c9-a49b-1a91d11bdf33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "v_mult_in_p" input
+			(at 133.35 53.34 180)
+			(uuid "7b90f732-8779-44f8-a04f-862c652cb5ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "lighter_prototype"
+				(path "/928b5d92-b861-4bd6-a548-2b257c980c16"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 81.28)
+		(size 22.86 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de3cf81c-a0b7-4c6b-8381-7d5ea504aef6")
+		(property "Sheetname" "esp32"
+			(at 77.47 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32.kicad_sch"
+			(at 77.47 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3v3_in" input
+			(at 77.47 86.36 180)
+			(uuid "a431e7a2-8e10-4efe-82f0-7f04dcf4e19b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "24v_en" output
+			(at 100.33 86.36 0)
+			(uuid "68912636-519d-41ea-98a0-db33fa5c91ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "gas_detect_en" output
+			(at 100.33 90.17 0)
+			(uuid "7c96e80d-2150-4806-b027-e019e4ab8a3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "gas_detect_sens" input
+			(at 77.47 96.52 180)
+			(uuid "e9514adc-8076-45ba-947d-bcfea625a131")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "spark_gap_pwm" output
+			(at 100.33 82.55 0)
+			(uuid "dd505aef-1dc3-4d85-9dd7-78947c442300")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "lighter_prototype"
+				(path "/928b5d92-b861-4bd6-a548-2b257c980c16"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
